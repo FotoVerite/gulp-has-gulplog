@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.0.0 (2026-10-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Normalize repository, dropping Node <22.15.0 ([#7](https://github.com/FotoVerite/gulp-has-gulplog/issues/7))
+* Update sparkles to 2.0.0
+* Normalize repository, dropping node <10.13 support
+
+### Miscellaneous Chores
+
+* Normalize repository, dropping node &lt;10.13 support ([88a6aa2](https://github.com/FotoVerite/gulp-has-gulplog/commit/88a6aa2478161edc790cc6d6452482e019df3cc4))
+* Normalize repository, dropping Node &lt;22.15.0 ([#7](https://github.com/FotoVerite/gulp-has-gulplog/issues/7)) ([2e6320a](https://github.com/FotoVerite/gulp-has-gulplog/commit/2e6320a511b239391a930f2a732abb0eed1a0a6d))
+* Update sparkles to 2.0.0 ([74f874d](https://github.com/FotoVerite/gulp-has-gulplog/commit/74f874dabd7ddda2decb65d24d1b6b00b071aae7))
+
 ## [1.0.0](https://www.github.com/gulpjs/has-gulplog/compare/v0.1.0...v1.0.0) (2022-08-26)
 
 
